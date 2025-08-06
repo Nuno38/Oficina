@@ -14,8 +14,6 @@
 <br>
 ° Verificação de status do serviço
 -------------------------------------------------
-<br>
-
 <h2> Relacionamentos </h2>
 ° Cliente -> Verículo
 <br>
