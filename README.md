@@ -14,6 +14,7 @@
 <br>
 ° Verificação de status do serviço
 -------------------------------------------------
+<br>
 
 <h2> Relacionamentos </h2>
 ° Cliente -> Verículo
@@ -22,7 +23,7 @@
 <br>
 ° Veículo -> Os
 <br>
-° MEcânico -> Serviço
+° Mecânico -> Serviço
 <br>
 ° Serviço -> Verificações
 <br>
