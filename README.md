@@ -29,7 +29,7 @@
 <br>
 ----------update-------------------------
 <br>
-**Estrutura do Banco de Dados
+<h2>Estrutura do Banco de Dados</h2>
 
 As principais tabelas do sistema são:
 
