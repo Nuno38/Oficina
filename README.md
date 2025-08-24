@@ -15,7 +15,7 @@
 ° Verificação de status do serviço
 -------------------------------------------------
 <h2> Relacionamentos </h2>
-° Cliente -> Verículo
+° Cliente -> Veículo
 <br>
 ° Ofcina -> Mecânico
 <br>
