@@ -26,3 +26,23 @@
 ° Serviço -> Verificações
 <br>
 ° Os -> Peças
+<br>
+----------update-------------------------
+<br>
+**Estrutura do Banco de Dados
+
+As principais tabelas do sistema são:
+
+cliente → Armazena os dados dos clientes da oficina.
+
+funcionario → Cadastro dos funcionários da mecânica.
+
+estoque → Controle de peças e insumos utilizados.
+
+os_de_servico → Representa cada ordem de serviço gerada.
+
+servico_realizado → Detalha os serviços prestados em cada OS.
+
+status_servico → Define se a OS está em andamento, concluída, cancelada etc.
+
+pagamento → Controle de pagamentos realizados pelos clientes.
